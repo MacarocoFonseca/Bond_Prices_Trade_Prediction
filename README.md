@@ -1,4 +1,4 @@
-# Bond_Prices_Trade_Prediction
+# Bond_Prices_Trade_Prediction (PySpark)
 Context
 
 The bond sales team requests its data scientists that they would like to have a model that estimates whether prices quoted to clients in bonds are going to be accepted by them, therefore resulting in a trade. In this business line, clients can request at any time during the trading session both buy and sell prices of bonds, for any volume in €. The client might request quotes from multiple banks at the same time, and therefore will close with the one that answers the best price (if any of the prices is considered fair by the client). Banks have no access to the prices quoted by their competitors, they only know the number of competitors for each request for quote (RfQ) from a client.
